@@ -1,0 +1,331 @@
+# Translation of Themes - Lovecraft in Spanish (Venezuela)
+# This file is distributed under the same license as the Themes - Lovecraft package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-22 17:37:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es_VE\n"
+"Project-Id-Version: Themes - Lovecraft\n"
+
+#. Description of the theme
+msgid "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, Block Editor support, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom accent color support, custom logo support, editor style support, recent posts and recent comments widgets with thumbnails, and a full-width template. Demo: https://www.andersnoren.se/themes/lovecraft/"
+msgstr "Lovecraft es un bonito tema de dos columnas para bloggers. Cuenta con un diseño adaptable, gran tipografía, compatibilidad con el editor de bloques, imagen de cabecera de ancho completo (que es reemplazada con la miniatura de la entrada en las entradas/páginas individuales), compatibilidad con color de énfasis personalizable, con logotipo personalizable, compatibilidad con estilos en el editor, widgets de entradas y comentarios recientes con miniaturas y una plantilla de ancho completo. Demostración: https://www.andersnoren.se/themes/lovecraft/"
+
+#. Theme Name of the theme
+msgid "Lovecraft"
+msgstr "Lovecraft"
+
+#: functions.php:494
+msgctxt "Name of the larger font size in Block Editor"
+msgid "Larger"
+msgstr "Muy grande"
+
+#: functions.php:488
+msgctxt "Name of the large font size in Block Editor"
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:483
+msgctxt "Short name of the normal font size in the Block Editor editor."
+msgid "N"
+msgstr "N"
+
+#: functions.php:482
+msgctxt "Name of the normal font size in Block Editor"
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:476
+msgctxt "Name of the small font size in Block Editor"
+msgid "Small"
+msgstr "Pequeña"
+
+#: functions.php:466
+msgctxt "Name of the white color in the Block Editor palette"
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:446
+msgctxt "Name of the black color in the Block Editor palette"
+msgid "Black"
+msgstr "Negro"
+
+#: header.php:22
+msgid "Skip to the content"
+msgstr "Saltar al contenido"
+
+#: searchform.php:8
+msgid "Search"
+msgstr "Buscar"
+
+#: header.php:80
+msgid "Toggle the search field"
+msgstr "Alternar el campo de búsqueda"
+
+#: header.php:75
+msgid "Toggle the mobile menu"
+msgstr "Alternar el menú móvil"
+
+#: functions.php:495
+msgctxt "Short name of the larger font size in the Block Editor editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:489
+msgctxt "Short name of the large font size in the Block Editor editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:477
+msgctxt "Short name of the small font size in the Block Editor editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:461
+msgctxt "Name of the light gray color in the Block Editor palette"
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: functions.php:456
+msgctxt "Name of the medium gray color in the Block Editor palette"
+msgid "Medium Gray"
+msgstr "Gris medio"
+
+#: functions.php:451
+msgctxt "Name of the dark gray color in the Block Editor palette"
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: functions.php:441
+msgctxt "Name of the accent color in the Block Editor palette"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: functions.php:119 functions.php:148 functions.php:521
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: index.php:26
+msgctxt "Translators: %s = search query text"
+msgid "Search results: \"%s\""
+msgstr "Resultados de la búsqueda: \"%s\""
+
+#: inc/classes/class-lovecraft-customize.php:31
+msgid "Check to display the sidebar on mobile. It is hidden on mobile by default."
+msgstr "Márcalo para mostrar la barra lateral en móviles. Por defecto está oculta en móviles."
+
+#: inc/classes/class-lovecraft-customize.php:30
+msgid "Show Sidebar on Mobile"
+msgstr "Mostrar barra lateral en móvil"
+
+#. Translators: %1$s = current page, %2$s = max number of pages
+#: index.php:20 pagination.php:15
+msgctxt "Translators: %1$s = current page, %2$s = max number of pages"
+msgid "Page %1$s of %2$s"
+msgstr "Página %1$s de %2$s"
+
+#. Translators: %s = number of pingbacks
+#: comments.php:50
+msgctxt "Translators: %s = number of pingbacks"
+msgid "%s Pingback"
+msgid_plural "%s Pingbacks"
+msgstr[0] "%s pingback"
+msgstr[1] "%s pingbacks"
+
+#. Translators: %s = number of comments
+#: comments.php:22
+msgctxt "Translators: %s = number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#. Template Name of the theme
+msgid "Full Width Page Template"
+msgstr "Plantilla de página de ancho completo"
+
+#: inc/widgets/recent-posts.php:156
+msgid "Number of posts to display"
+msgstr "Número de entradas que deseas mostrar"
+
+#: inc/widgets/recent-posts.php:9
+msgid "Displays recent blog entries."
+msgstr "Muestra las entradas de blog recientes."
+
+#: inc/widgets/recent-comments.php:113 inc/widgets/recent-posts.php:158
+msgid "Defaults to 5 if empty"
+msgstr "Si está vacío, el valor por defecto es 5"
+
+#: inc/widgets/recent-comments.php:111
+msgid "Number of comments to display"
+msgstr "Número de comentarios a mostrar"
+
+#: inc/widgets/recent-comments.php:9
+msgid "Displays recent comments with user avatars."
+msgstr "Muestra comentarios recientes con los avatares de los usuarios."
+
+#: inc/widgets/recent-comments.php:7
+msgid "Recent Comments"
+msgstr "Comentarios recientes"
+
+#: inc/widgets/recent-comments.php:106 inc/widgets/recent-posts.php:151
+msgid "Title"
+msgstr "Título"
+
+#: singular.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: sidebar.php:25 inc/widgets/recent-posts.php:7
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: searchform.php:7
+msgid "Search form"
+msgstr "Formulario de búsqueda"
+
+#: index.php:81
+msgid "No results. Try again, would you kindly?"
+msgstr "No hay resultados. Puedes intentarlo de nuevo."
+
+#: image.php:36
+msgid "Resolution:"
+msgstr "Resolución:"
+
+#: inc/classes/class-lovecraft-customize.php:42
+msgid "Accent Color"
+msgstr "Color de énfasis"
+
+#: inc/classes/class-lovecraft-customize.php:57
+msgid "Upload a logo to replace the default site title in the header."
+msgstr "Subir un logo para reemplazar el título del sitio por defecto en la cabecera."
+
+#: inc/classes/class-lovecraft-customize.php:55
+#: inc/classes/class-lovecraft-customize.php:66
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/classes/class-lovecraft-customize.php:18
+msgid "Allows you to customize theme settings for Lovecraft."
+msgstr "Te permite personalizar los ajustes del tema de Lovecraft."
+
+#: inc/classes/class-lovecraft-customize.php:15
+msgid "Options for Lovecraft"
+msgstr "Opciones de Lovecraft"
+
+#: functions.php:402
+msgid "Reply"
+msgstr "Respuesta"
+
+#: functions.php:395
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: functions.php:330 functions.php:350 functions.php:389
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:350
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:251
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:198
+msgid "Widgets in this area will be shown in the right footer column."
+msgstr "Widgets en este área serán mostrados en la columna derecha del pie de página."
+
+#: functions.php:196
+msgid "Footer Three"
+msgstr "Pie de página tres"
+
+#: functions.php:188
+msgid "Widgets in this area will be shown in the middle footer column."
+msgstr "Widgets en este área serán mostrados en la columna del medio del pie de página."
+
+#: functions.php:186
+msgid "Footer Two"
+msgstr "Pie de página dos"
+
+#: functions.php:178
+msgid "Widgets in this area will be shown in the left footer column."
+msgstr "Widgets en este área serán mostrados en la columna izquierda del pie de página."
+
+#: functions.php:176
+msgid "Footer One"
+msgstr "Pie de página uno"
+
+#: functions.php:168
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Los widgets en esta zona aparecerán en la barra lateral."
+
+#: functions.php:166
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: footer.php:29
+msgid "Theme by"
+msgstr "Tema de"
+
+#: footer.php:29
+msgid "Powered by"
+msgstr "Creado con"
+
+#: content.php:35
+msgid "Sticky post"
+msgstr "Entrada fija"
+
+#: functions.php:327
+msgid "In"
+msgstr "en"
+
+#: functions.php:324 image.php:29
+msgid "On"
+msgstr "en"
+
+#: functions.php:322 image.php:27
+msgid "By"
+msgstr "por"
+
+#: pagination.php:26 singular.php:80 comments.php:68
+msgid "Next"
+msgstr "Siguiente"
+
+#: pagination.php:22 singular.php:73 comments.php:67
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:27
+msgid "Add Comment"
+msgstr "Añadir comentario"
+
+#: 404.php:21
+msgid "It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below."
+msgstr "Parece que has intentado abrir una página que no existe, o tal vez,  haya sido borrada o movida. Puede que encuentres lo que buscas usando el formulario de abajo."
+
+#: 404.php:15
+msgid "Error 404"
+msgstr "Error 404 "
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+msgid "https://www.andersnoren.se/teman/lovecraft-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/lovecraft-wordpress-theme/"
